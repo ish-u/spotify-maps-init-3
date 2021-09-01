@@ -8,7 +8,7 @@ I used this [repo](https://github.com/arturssmirnovs/Clickable-countries-using-G
 
 ## Demo
 
-- ### [Netlify Demo](https://github.com/arturssmirnovs/Clickable-countries-using-Google-Maps-API)
+- ### [Netlify Demo](https://spotify-maps.netlify.app/)
 
 - ![img](demo/spotify.gif)
 
@@ -17,3 +17,4 @@ I used this [repo](https://github.com/arturssmirnovs/Clickable-countries-using-G
 ## Run Locally
 
     _will update soon_
+    _maybe not :P_
